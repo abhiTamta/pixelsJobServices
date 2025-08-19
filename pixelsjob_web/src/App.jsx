@@ -1,9 +1,11 @@
 import React from 'react'
+import Header from './components/layout/header/Header'
+import HomeBanner from './components/banner/HomeBanner'
 
 const App = () => {
   return (
     <div>
-      app
+      <Header />
     </div>
   )
 }
